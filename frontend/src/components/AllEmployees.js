@@ -152,6 +152,9 @@ export default function AllEmployees(){
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
      
+      <li className="nav-item">
+        <Link to="/scan" className="nav-link active text-white" aria-current="page">QR Scanner</Link>
+        </li>
         <li className="nav-item">
         <Link to="/em" className="nav-link active text-white" aria-current="page">Dashboard</Link>
         </li>  
