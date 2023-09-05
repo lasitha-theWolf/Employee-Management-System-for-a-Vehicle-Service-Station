@@ -49,6 +49,11 @@ Before you begin, ensure you have met the following requirements:
 ### DashBoard
 ![Screenshot 2023-05-18 124232](https://github.com/lasitha-theWolf/Employee-Management-System-for-a-Vehicle-Service-Station/assets/112642847/d095f7d0-fc32-4e79-ad54-7c5022e3421d)
 
+### Employee ID with Specific Generate QR Code
+![Screenshot 2023-05-18 125045](https://github.com/lasitha-theWolf/Employee-Management-System-for-a-Vehicle-Service-Station/assets/112642847/ea262549-d2dd-4924-afa1-c6ed2890f775)
+
+
+
 
 ## Usage
 
