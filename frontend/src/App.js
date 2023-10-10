@@ -26,7 +26,7 @@ function App() {
        <Routes>
 
        <Route path="/emadd" element={<AddEmployee/>}/>
-       <Route path="/em" element={<AllEmployees/>}/>
+       <Route path="/" element={<AllEmployees/>}/>
        <Route path="/emget/:id" element={<FullDetails/>}/>
        <Route path="/emupdate/:id" element={<UpdateEmployee/>}/>
        <Route path="/emdelete/:id" element={<DeleteEmployee/>}/>

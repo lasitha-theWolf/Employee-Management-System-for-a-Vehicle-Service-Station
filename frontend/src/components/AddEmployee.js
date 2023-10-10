@@ -134,7 +134,7 @@ import { useNavigate } from "react-router-dom";
       <ul className="navbar-nav">
      
         <li className="nav-item">
-        <Link to="/em" className="nav-link active text-white" aria-current="page">Dashboard</Link>
+        <Link to="/" className="nav-link active text-white" aria-current="page">Dashboard</Link>
         </li>  
 
         <li className="nav-item">

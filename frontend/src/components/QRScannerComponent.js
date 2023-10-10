@@ -121,7 +121,7 @@ const QRScanner = () => {
                 </li>
                 <li className="nav-item">
                   <Link
-                    to="/em"
+                    to="/"
                     className="nav-link active text-white"
                     aria-current="page"
                   >
