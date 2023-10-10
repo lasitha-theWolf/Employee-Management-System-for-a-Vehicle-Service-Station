@@ -50,6 +50,7 @@ Before you begin, ensure you have met the following requirements:
 ![Screenshot 2023-05-18 124232](https://github.com/lasitha-theWolf/Employee-Management-System-for-a-Vehicle-Service-Station/assets/112642847/d095f7d0-fc32-4e79-ad54-7c5022e3421d)
 
 ### QR Coder Reader
+![qr code reader](https://github.com/lasitha-theWolf/Employee-Management-System-for-a-Vehicle-Service-Station/assets/112642847/984e1679-2eb5-4e9d-86e2-70aea063d20e)
 
 
 ### Employee ID with Specific Generate QR Code
